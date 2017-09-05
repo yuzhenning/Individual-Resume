@@ -8,7 +8,7 @@ Another course is about program 2048 game in html.
 I am Master of Electromechanical Engineering. University of Macau.
 Latex. Matlab, C-programming are what I am familar with.
 At present, I am studying Deep Learning and Nonlinear Control theory as my PhD topic.
-I think deeplearning and python programming will be more popular in decade.
+I think deep learning and python programming will be more popular in decade.
 
 Eventhough I am working in Beijing Normal University as laboratory assistant.
 I do not satisfied my work content, repairing teachers and students' computer.
